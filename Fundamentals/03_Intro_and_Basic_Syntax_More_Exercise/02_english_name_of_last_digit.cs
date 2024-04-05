@@ -1,6 +1,6 @@
 using System;
 
-class SortNumbers
+class EnglishNameOfTheLastDigit
 {
 
     static void Main()
